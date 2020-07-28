@@ -1,14 +1,17 @@
-# B83128 Introduction to R scripting language
+# B03128 Úvod do skriptovacího jazyka R
 
-Links to the sessions' recordings are below.
+Seznam lekcí volitelného předmětu B03128 Úvod do skriptovacího jazyka R garantovaného Ústavem biofyziky a informatiky v rámci 1. lékařské fakulty Univerzity Karlovy. Letošní iterace kurzu musela být v důsledku pandemie COVID-19 zkrácena a vedena pouze online.
+
+Linky na záznamy lekcí jsou níže.
 
 
-## Lesson 01
+## Lekce 01
 
-[
-    ![watch the video](
-        https://raw.githubusercontent.com/LStepanek/B00364_Zdravotnicka_informatika/master/_thumbnail_.png
-    )
-](
-    https://youtu.be/-Swztoc8DLU
-)
+Úvod, instalace R a Rstudia, základní datové typy a struktury, operace.
+
+<p align = "center">
+  <a href = "https://youtu.be/aGR_Lp-d4Qo" target = "_blank">
+    <img src = "https://img.youtube.com/vi/aGR_Lp-d4Qo/hqdefault.jpg" alt = "B03128 Úvod do skriptovacího jazyka R -- lekce 01">
+  </a> 
+</p>
+
