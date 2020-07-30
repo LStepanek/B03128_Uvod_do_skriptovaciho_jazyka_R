@@ -18,7 +18,7 @@ Linky na záznamy lekcí jsou níže.
 
 ## Lekce 02
 
-Nacítání a ukládání dat do a z R, R jako programovací jazyk.
+Načítání a ukládání dat do a z R, R jako programovací jazyk.
 
 <p align = "center">
   <a href = "https://youtu.be/UMuvesUFZ_w" target = "_blank">
